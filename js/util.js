@@ -181,5 +181,3 @@ class Util {
     return { focusRect: focusRect, backgroundRects: backgroundRects }
   }
 }
-
-module.exports = Util;
